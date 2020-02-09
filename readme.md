@@ -7,3 +7,4 @@ Belajar dasar pemograman menggunakan Bahasa Python
 1. Menghitung Luas Persegi
 2. Perintah Bersyarat
 3. Perulangan While dan For
+4. List
